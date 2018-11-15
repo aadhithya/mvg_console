@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: mvg-console
-Version: 2018.11.12.1.0.1
+Version: 2018.11.2
 Summary: A Command Line Tool to get the MVG departures for a station.
 Home-page: https://github.com/frankzl/python_mvg_console_program.git
 Author: Frank Lu, Aadhithya Sankar

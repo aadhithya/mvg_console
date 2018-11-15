@@ -8,6 +8,7 @@ mvg_console.egg-info/PKG-INFO
 mvg_console.egg-info/SOURCES.txt
 mvg_console.egg-info/dependency_links.txt
 mvg_console.egg-info/entry_points.txt
+mvg_console.egg-info/requires.txt
 mvg_console.egg-info/top_level.txt
 mvg_console/mvg_api/__init__.py
 mvg_console/mvg_api/mvg_api_requests.py

@@ -23,7 +23,7 @@ MVG_FG = "#ffffff"
 #######
 
 __package_name__ = "mvg_console"
-__version__ = "2018.11.12.1.0.1"
+__version__ = "2018.11.2"
 __description__ = "A Command Line Tool to get the MVG departures for a station."
 
 class Departure:
@@ -123,7 +123,7 @@ def main():
     result, latest_departure = history.get_latest()
 
     if args.recent:      
-        
+        print(args.recent)
         if not result:
             print(latest_departure)
         else:

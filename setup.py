@@ -16,6 +16,7 @@ setuptools.setup(
     author="Frank Lu, Aadhithya Sankar",
     url="https://github.com/frankzl/python_mvg_console_program.git",
     packages=setuptools.find_packages(),
+    install_requires=['requests','colr','texttable','pprint'],
     entry_points={
         "console_scripts": ["mvg = mvg_console.get_info:main"]
     },  
